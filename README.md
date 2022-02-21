@@ -1,4 +1,8 @@
-![Alt Text](https://media.giphy.com/media/otL4zXOhpfvnKAmWl8/giphy.gif)
+![Alt Text](https://media.giphy.com/media/otL4zXOhpfvnKAmWl8/giphy.gif)  
+
+[![name](https://media.giphy.com/media/Jzan0Ssz95QGi6hyjt/giphy.gif)](https://dannythedev.myportfolio.com/)
+[![name](https://media.giphy.com/media/d297p7juEAFDkhDE5W/giphy.gif)]()
+[![name](https://media.giphy.com/media/nEhT7uEMO55lDadzQZ/giphy.gif)](https://www.youtube.com/watch?v=M4Cl4-GXf80)
 
 <!--
 **dannythedev/dannythedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
