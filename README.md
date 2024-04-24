@@ -34,7 +34,7 @@ I enjoy working on a wide range of projects, from web development to data analys
 
 ### Other pages:
 
-[![name](https://media.giphy.com/media/Jzan0Ssz95QGi6hyjt/giphy.gif)](https://dannythedev.myportfolio.com/)
+[![name](https://media.giphy.com/media/Jzan0Ssz95QGi6hyjt/giphy.gif)](dannythedev.github.io)
 [![name](https://media.giphy.com/media/d297p7juEAFDkhDE5W/giphy.gif)]()
 [![name](https://media.giphy.com/media/nEhT7uEMO55lDadzQZ/giphy.gif)](https://www.youtube.com/watch?v=M4Cl4-GXf80)
 <!--
