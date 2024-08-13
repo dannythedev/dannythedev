@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm Daniel, a passionate software engineer, specializing in Python development. With a background in cybersecurity, I bring a unique perspective to software engineering.
+I'm Daniel, a passionate software engineer and cyber security specialist, specializing in Python development. With a strong background in cybersecurity, I bring a unique perspective to software engineering.
 
 I enjoy working on a wide range of projects, from web development to data analysis and automation. Whether it's building scalable web applications, analyzing large datasets, or automating repetitive tasks, I thrive on challenges and always strive for excellence in my work.
 
