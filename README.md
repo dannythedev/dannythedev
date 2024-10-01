@@ -1,6 +1,18 @@
-![Alt Text](https://media.giphy.com/media/5kccRl07hj0I5L7PpD/giphy.gif)  
+# Hi there! 👋 My name is Daniel. Welcome to my GitHub!
+### Game Development:
+[Play SprintSweeper on the Web!](https://scytherous.itch.io/sprintsweeper)
 
-# Hi there! 👋
+### Fullstack:
+[Browse Local Israeli Cinema Premieres and their Ratings in real-time!](https://dannythedev.github.io/cinema_reviewer/)
+
+[Pixelate Images in a blink of an eye!](https://danthedeveloper.pythonanywhere.com/)
+
+### Cybersecurity Tools:
+[Some files remain hidden in Windows OS, even with 'Show Hidden' enabled. Uncover these files!](https://github.com/dannythedev/deep_directory_viewer)
+
+[Analyze outgoing network connections and their sources!](https://github.com/dannythedev/network_traffic_analyzer)
+
+[Display registry keys that have been recently tinkered with.](https://github.com/dannythedev/registry_timestamp_checker)
 
 ## About Me
 
@@ -25,6 +37,8 @@ I enjoy working on a wide range of projects, from web development to data analys
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/react-%3070d1.svg?style=for-the-badge&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%233F4F75.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
 #### I also coded with:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
