@@ -1,22 +1,5 @@
 # Hi there! 👋 My name is Daniel. Welcome to my GitHub!
-### Game Development:
-[Play SprintSweeper on the Web!](https://scytherous.itch.io/sprintsweeper)
-
-### Fullstack:
-[Browse Local Israeli Cinema Premieres and their Ratings in real-time!](https://dannythedev.github.io/cinema_reviewer/)
-
-[Pixelate Images in a blink of an eye!](https://danthedeveloper.pythonanywhere.com/)
-
-### Cybersecurity Tools:
-[Some files remain hidden in Windows OS, even with 'Show Hidden' enabled. Uncover these files!](https://github.com/dannythedev/deep_directory_viewer)
-
-[Analyze outgoing network connections and their sources!](https://github.com/dannythedev/network_traffic_analyzer)
-
-[Display registry keys that have been recently tinkered with.](https://github.com/dannythedev/registry_timestamp_checker)
-
-## About Me
-
-I'm Daniel, a passionate software engineer and cyber security specialist, specializing in Python development. With a strong background in cybersecurity, I bring a unique perspective to software engineering.
+I am a passionate software engineer and cyber security specialist, specializing in Python development. With a strong background in cybersecurity, I bring a unique perspective to software engineering.
 
 I enjoy working on a wide range of projects, from web development to data analysis and automation. Whether it's building scalable web applications, analyzing large datasets, or automating repetitive tasks, I thrive on challenges and always strive for excellence in my work.
 
@@ -45,6 +28,21 @@ I enjoy working on a wide range of projects, from web development to data analys
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Game Development:
+[Play SprintSweeper on the Web!](https://scytherous.itch.io/sprintsweeper)
+
+### Fullstack:
+[Browse Local Israeli Cinema Premieres and their Ratings in real-time!](https://dannythedev.github.io/cinema_reviewer/)
+
+[Pixelate Images in a blink of an eye!](https://danthedeveloper.pythonanywhere.com/)
+
+### Cybersecurity Tools:
+[Some files remain hidden in Windows OS, even with 'Show Hidden' enabled. Uncover these files!](https://github.com/dannythedev/deep_directory_viewer)
+
+[Analyze outgoing network connections and their sources!](https://github.com/dannythedev/network_traffic_analyzer)
+
+[Display registry keys that have been recently tinkered with.](https://github.com/dannythedev/registry_timestamp_checker)
 
 ### Other pages:
 
