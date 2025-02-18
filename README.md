@@ -34,7 +34,7 @@ I enjoy working on a wide range of projects, from web development to data analys
 
 ### Fullstack:
 [Browse Local Israeli Cinema Premieres and their Ratings in real-time!](https://dannythedev.github.io/cinema_reviewer/)
-
+[See Pokémon-Type Dashboards and Statistics!](https://devautomate.pythonanywhere.com/)
 [Pixelate Images in a blink of an eye!](https://danthedeveloper.pythonanywhere.com/)
 
 ### Cybersecurity Tools:
