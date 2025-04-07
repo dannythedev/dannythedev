@@ -42,12 +42,14 @@ I enjoy working on a wide range of projects, from web development to data analys
 ![2](https://github.com/user-attachments/assets/dbd34433-afab-4018-9d15-2111ae36b94d)
 [Pixelate Images in a blink of an eye!](https://danthedeveloper.pythonanywhere.com/)
 
-### Cybersecurity Tools:
+### Cybersecurity Freeware Tools:
 [Some files remain hidden in Windows OS, even with 'Show Hidden' enabled. Uncover these files!](https://github.com/dannythedev/deep_directory_viewer)
 
 [Analyze outgoing network connections and their sources!](https://github.com/dannythedev/network_traffic_analyzer)
 
 [Display registry keys that have been recently tinkered with.](https://github.com/dannythedev/registry_timestamp_checker)
+
+[Inspect signatures and hashes of active Windows processes and DLL files!](https://github.com/dannythedev/active_dll_validator)
 
 ### Other pages:
 
