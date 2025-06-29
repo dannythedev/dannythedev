@@ -29,20 +29,12 @@ I enjoy working on a wide range of projects, from web development to data analys
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Game Development:
+
 [Play SprintSweeper on the Web!](https://scytherous.itch.io/sprintsweeper)
-
-### Fullstack:
-![3](https://github.com/user-attachments/assets/07f88186-2696-4276-9f10-202e18c70222) 
-[Browse Local Israeli Cinema Premieres and their Ratings in real-time!](https://dannythedev.github.io/cinema_reviewer/)
-
-![1](https://github.com/user-attachments/assets/51658d68-98c5-458c-a283-4324d75f872f)
-[See Pokémon-Type Dashboards and Statistics!](https://devautomate.pythonanywhere.com/)
 
 ![2](https://github.com/user-attachments/assets/dbd34433-afab-4018-9d15-2111ae36b94d)
 [Pixelate Images in a blink of an eye!](https://danthedeveloper.pythonanywhere.com/)
 
-### Cybersecurity Freeware Tools:
 [Some files remain hidden in Windows OS, even with 'Show Hidden' enabled. Uncover these files!](https://github.com/dannythedev/deep_directory_viewer)
 
 [Analyze outgoing network connections and their sources!](https://github.com/dannythedev/network_traffic_analyzer)
